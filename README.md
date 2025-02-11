@@ -1,2 +1,2 @@
 # AI-Curation
-Community/Expert Validation
+Community/Expert Validation 
